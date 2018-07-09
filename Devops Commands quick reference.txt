@@ -1,0 +1,55 @@
+﻿Git COMMANDS
+------------------------------------------------------------------------------------------------------------------------
+git config --global user.name "username"
+git config --global user.email "email@example.com"
+git clone
+git --help
+git --version
+git add filename
+git add .
+git commit -m "any message"
+git push
+git pull
+git log
+git status
+git init
+git remote add anyname url_of_empty_repository
+git push anyname master
+git branch branchname
+git checkout branchname
+git merge branchname1 branchname2
+git rebase branchname1 branchname2
+git branch -d branchname1 //delete the merged branch
+git diff
+git revert
+git reset
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+ANT COMMANDS
+
+ant clean
+ant
+ant compile
+------------------------------------------------------------------------------------------------------------------------
+MAVEN COMMANDS
+
+mvn clean
+mvn compile
+mvn verify
+mvn install
+mvn clean install
+mvn test
+------------------------------------------------------------------------------------------------------------------------
+GRADLE COMMANDS
+
+gradle clean
+gradle assemble
+gradle build
+
+	
